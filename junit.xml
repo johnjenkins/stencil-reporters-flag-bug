@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="6" failures="0" errors="0" time="1.015">
+  <testsuite name="format" errors="0" failures="0" skipped="0" timestamp="2022-10-12T09:23:31" time="0.704" tests="4">
+    <testcase classname="format returns empty string for no names defined" name="format returns empty string for no names defined" time="0.01">
+    </testcase>
+    <testcase classname="format formats just first names" name="format formats just first names" time="0.001">
+    </testcase>
+    <testcase classname="format formats first and last names" name="format formats first and last names" time="0.002">
+    </testcase>
+    <testcase classname="format formats first, middle and last names" name="format formats first, middle and last names" time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="my-component" errors="0" failures="0" skipped="0" timestamp="2022-10-12T09:23:32" time="0.181" tests="2">
+    <testcase classname="my-component renders" name="my-component renders" time="0.023">
+    </testcase>
+    <testcase classname="my-component renders with values" name="my-component renders with values" time="0.008">
+    </testcase>
+  </testsuite>
+</testsuites>
